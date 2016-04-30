@@ -1,0 +1,14 @@
+{
+  "user": {
+    "koen": {
+      "_id": "6a4928afd0f20971d82105e4",
+      "username": "koen",
+      "password": "koen"
+    },
+    "admin": {
+      "_id": "6a4928afd0f20971d82105e2",
+      "username": "admin",
+      "password": "admin"
+    }
+  }
+}

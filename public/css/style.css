@@ -1,0 +1,72 @@
+#nav {
+    font: 2em "Optima", "Arial";
+    text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+body {
+    background: url(http://blog.hostbaby.com/wp-content/uploads/2014/03/PaintSwatches_1400x900.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h1 {
+    font-family: Impact, fantasy;
+    font-size: 30pt;
+    color: #d32;
+    padding-top: 40px;
+    padding-bottom: 3px;
+}
+
+h2 {
+    font-family: Impact, fantasy;
+    font-size: 20pt;
+    color: #d32;
+    padding-bottom: 3px;
+}
+
+#center {
+    width: 100%;
+    text-align: center;
+}
+
+#midButton {
+    display:inline-block;
+    padding: 10px 15px 11px !important;
+    font-size: 18px !important;
+    background-color: #d32;
+    font-weight: bold;
+    text-shadow: 1px 1px #000;
+    color: #ffffff;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border: 1px solid #000;
+    cursor: pointer;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+    -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+    -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+}
+
+#midButton-b {
+    display:inline-block;
+    padding: 10px 15px 11px !important;
+    font-size: 18px !important;
+    background-color: #23d;
+    font-weight: bold;
+    text-shadow: 1px 1px #000;
+    color: #ffffff;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border: 1px solid #000;
+    cursor: pointer;
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+    -moz-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+    -webkit-box-shadow: 0 1px 0 rgba(255, 255, 255, 0.5) inset;
+}

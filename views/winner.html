@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>Meeting Manager</title>
+        <script src="/js/jquery-1.11.3.js"></script>
+        <link rel="stylesheet" type="text/css" href="/css/style.css" />
+    </head>
+    <body>
+        <div class="container" id="center">
+            <h1>Please vote or get results from votes</h1>
+        </div>
+        <div class="container" id="center">
+            <form method="post">
+                Voting Room Number:<br>
+                <input type="number" name="votingRoom" id="votingRoom"><br>
+                <br>
+                Response Phone Number:<br>
+                <input type="number" name="number" id="number"><br>
+                <br>
+                <button type="button" id="midButton"><input type="submit" value="Get results"></button><br>
+            </form>
+            <div id="winner">
+
+            </div>
+            <br>
+            <button type="button" id="midButton" onclick="location.href = '/success'">Go back</button>
+        </div>
+    </body>
+</html>
